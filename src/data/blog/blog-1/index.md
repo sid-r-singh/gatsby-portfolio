@@ -1,7 +1,7 @@
 ---
 title: thay the frameworks really destroyed web performance 🤔 ?
 categories: ['frameworks', 'css', 'performance']
-image: './e4d5ed47ee58aa859995cae2a4e83221.webp'
+image: './26905059.jpg'
 imageCredit: https://dribbble.com/shots/13972666-faces
 date: "2015-05-01T22:12:03.284Z"
 time: 3
