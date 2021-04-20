@@ -1,10 +1,10 @@
 module.exports = {
-  SiteTitle: 'Abdelali',
+  SiteTitle: 'Sidharth R | Website',
   Sitelogo: '#',
-  SiteLogoText: 'Abdelali',
-  SiteAuthor: 'Abdelali Dahir',
-  SiteDescription: 'Front End Developer',
-  defaultDescription: 'Software engineer!', 
+  SiteLogoText: 'Sidharth R',
+  SiteAuthor: 'Sidharth R',
+  SiteDescription: 'Website of Sidharth R',
+  defaultDescription: 'Inderdisciplinary programmer', 
   githubApiQuery: `query ($number_of_repos: Int!) {
     viewer {
       name
